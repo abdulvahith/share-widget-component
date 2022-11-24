@@ -9,7 +9,7 @@ Share Widget App
 Do npm install before run the application:
 
 ```
-npm run dev
+npm install
 
 ```
 
@@ -38,7 +38,5 @@ can give close button on iviting people page
 ```
 
 Need to work on performace side
-
-```
 
 ```
